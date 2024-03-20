@@ -18,3 +18,4 @@ To run the Contact Manager web application, ensure you have the following prereq
 
 ## Repository History
 The repository maintains a visible history of project iterations and developments, showcasing the progress made in implementing various features for the Contact Manager application.
+**FRONT END LOCATED AT THE MASTER BRANCH**
