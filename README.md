@@ -1,7 +1,7 @@
 # Contact Manager Web Application
 
 This project is a Contact Manager web application developed as a part of the Web Application module coursework at WIUT by student ID: 00014688.
-
+THE CANCULATION PROCESS 14688/20 AND ACCORDING TO THIS CANCULATION THE REMAINDER IS 6 WHAT MEANS THAT THE YJEME OF THE APP IS CONTACT MANAGER
 ## Project Overview
 The Contact Manager web application simplifies contact management by offering users a platform to add, edit, and delete their contacts seamlessly. With a user-friendly interface, this application aims to enhance the efficiency of contact management tasks.
 
